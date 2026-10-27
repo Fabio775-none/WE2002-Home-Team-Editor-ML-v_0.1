@@ -155,7 +155,6 @@ Quando o usuário escolhe outro estádio e utiliza a opção de salvar, o progra
 - As modificações são gravadas diretamente no arquivo selecionado.
 - O programa utiliza offsets específicos do Winning Eleven 2002.
 - Não existe validação automática da versão da imagem BIN.
-- A ferramenta não altera os modelos 3D dos estádios, apenas a configuração de estádio atribuída a cada equipe.
 - Algumas funcionalidades podem apresentar limitações por se tratar de uma versão experimental.
 
 ## Créditos
